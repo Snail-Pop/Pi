@@ -26,7 +26,7 @@ double circle_pi(int rectangles){
     /*Rectangle area*/
     double rArea;
 
-    /*lol idk*/
+    /*Total area of all added rectangles*/
     double totalArea = 0;
 
 
